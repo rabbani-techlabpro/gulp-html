@@ -1,0 +1,73 @@
+// font family
+$font-body: "DM Sans", sans-serif;
+$font-awesome: "Font Awesome 6 Free";
+
+//Colors
+$color-primary: #064acb;
+
+$color-secondary: #f3a952;
+
+$color-white: #fff;
+
+$color-black: #000;
+
+$color-body: #646464;
+$color-body2: #8b8b8b;
+
+$color-border: #e7e7e7;
+
+$color-cat-normal: #7a7e83;
+
+$color-meta-normal: #a5a6aa;
+
+$color-gray: #f7f7f7;
+
+:root {
+  --color-primary: #064acb;
+  --color-secondary: #f3a952;
+
+  --color-white: #fff;
+  --color-black: #000;
+}
+
+// brakpoints
+$breakpoints: (
+  "xs": (
+    max-width: 575px,
+  ),
+  "sm": (
+    max-width: 767px,
+  ),
+  "md": (
+    max-width: 991px,
+  ),
+  "lg": (
+    max-width: 1199px,
+  ),
+) !default;
+
+$border-radius-xs: 4px;
+$border-radius-sm: 6px;
+$border-radius-md: 10px;
+$border-radius-lg: 15px;
+$border-radius-xl: 20px;
+
+$color-fb: #1559c2;
+$color-tw: #1ea9e9;
+$color-in: #3f729b;
+$color-vm: #2cc0eb;
+$color-pn: #3b5998;
+$color-wh: #43ce13;
+$color-dr: #f65e97;
+$color-dw: #ff6b10;
+$color-yu: #ed1d25;
+
+// $color-fb: #01579b;
+// $color-tw: #40c4ff;
+// $color-in: #3f729b;
+// $color-vm: #2cc0eb;
+// $color-pn: #3b5998;
+// $color-wh: #075e54;
+// $color-dr: #ff4081;
+// $color-dw: #f26522;
+// $color-yu: #ff1744;
